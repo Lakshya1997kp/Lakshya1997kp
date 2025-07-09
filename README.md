@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Lakshya ,  a passionate Machine Learning enthusiast, backend developer, and researcher. I'm deeply interested in building smart, real-world application.
+I am Lakshya ,  learning and understanding java , python and machine learning .
 <!--
 **Lakshya1997kp/Lakshya1997kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
